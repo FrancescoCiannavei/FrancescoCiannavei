@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Franky5831/Franky5831/main/banner.png"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
