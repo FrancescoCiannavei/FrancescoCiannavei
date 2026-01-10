@@ -188,9 +188,9 @@
 <div align="center">
   
 
-<img class="output" src="https://gh-stats.deoxy.dev/api?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;v=1" alt="github stats">
-<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Franky5831&amp;theme=darcula&amp;hide_border=true&amp;v=1" alt="github streak">
-<img class="output" src="https://gh-stats.deoxy.dev/api/top-langs/?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;v=1" alt="github top languages">
+<img class="output" src="https://gh-stats.ciannavei.dev/api?theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="github stats">
+<img class="output" src="https://gh-stats.ciannavei.dev/streak/?theme=darcula&hide_border=true" alt="github streak">
+<img class="output" src="https://gh-stats.ciannavei.dev/api/top-langs/?theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="github top languages">
   
 </div>
 
